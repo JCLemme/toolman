@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A20
+D SoC featuring Dual-Core Cortex-A7 ARM CPU, Mali400 MP2 GPU
+K
+F http://dl.linux-sunxi.org/A20/A20%20Brief%202013-02-27.pdf
+$ENDCMP
+#
+#End Doc Library

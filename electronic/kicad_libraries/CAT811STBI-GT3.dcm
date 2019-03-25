@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT811STBI-GT3
+D uP PSU Supervisory IC Vth=2.925V SOT-143 ON Semiconductor CAT811STBI-GT3, Voltage Supervisor 2.5V, 3V, 3.3V, 5V, Reset Input, 4-Pin SOT-143
+K
+F http://www.onsemi.com/pub/Collateral/CAT811-D.PDF
+$ENDCMP
+#
+#End Doc Library

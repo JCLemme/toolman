@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name A20)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/A20.lib)(options "")(descr ""))
+  (lib (name AT91SAM9G25-CU-999)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/AT91SAM9G25-CU-999.lib)(options "")(descr ""))
+  (lib (name W971GG6SB-25)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/W971GG6SB-25.lib)(options "")(descr ""))
+  (lib (name CM1624-08DE)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/CM1624-08DE.lib)(options "")(descr ""))
+  (lib (name NCP1529ASNT1G)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/NCP1529ASNT1G.lib)(options "")(descr ""))
+)

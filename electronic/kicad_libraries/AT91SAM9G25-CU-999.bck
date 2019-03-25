@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT91SAM9G25-CU-999
+D Microprocessors - MPU BGA Green IND TEMP MRL A,T&R
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-11032-32-bit-ARM926EJ-S-Microcontroller-SAM9G25_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

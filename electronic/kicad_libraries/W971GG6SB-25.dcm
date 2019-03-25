@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W971GG6SB-25
+D DRAM 1G, DDR2-800, x16
+F https://www.winbond.com/resource-files/w971gg6sb_a05.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name A20)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/A20.mod)(options "")(descr ""))
+  (lib (name AT91SAM9G25-CU-999)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/AT91SAM9G25-CU-999.mod)(options "")(descr ""))
+)
