@@ -1,0 +1,40 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPS61090RSAR
+#/361533/123458/2.37/17/4/Integrated Circuit
+DEF TPS61090RSAR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 700 50 H V L CNN
+F1 "TPS61090RSAR" 1050 600 50 H V L CNN
+F2 "QFN65P400X400X100-17N" 1050 500 50 H I L CNN
+F3 "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tps61090&fileType=pdf" 1050 400 50 H I L CNN
+F4 "Conv DC-DC Single-OUT Step Up Texas Instruments TPS61090RSAR, Boost Converter, Step Up 0.5A Adjustable, 1.8  5.5 V, 600 kHz, 16-Pin QFN" 1050 300 50 H I L CNN "Description"
+F5 "1" 1050 200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 100 50 H I L CNN "Manufacturer_Name"
+F7 "TPS61090RSAR" 1050 0 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TPS61090RSAR" 1050 -100 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TPS61090RSAR" 1050 -200 50 H I L CNN "Mouser Price/Stock"
+F10 "1626463" 1050 -300 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/1626463" 1050 -400 50 H I L CNN "RS Price/Stock"
+DRAW
+X VOUT_1 1 0 0 200 R 50 50 0 0 B
+X NC 2 0 -100 200 R 50 50 0 0 B
+X SW_1 3 0 -200 200 R 50 50 0 0 B
+X SW_2 4 0 -300 200 R 50 50 0 0 B
+X PGND_1 5 400 -1000 200 U 50 50 0 0 B
+X PGND_2 6 500 -1000 200 U 50 50 0 0 B
+X PGND_3 7 600 -1000 200 U 50 50 0 0 B
+X VBAT 8 700 -1000 200 U 50 50 0 0 B
+X LBO 12 1200 0 200 L 50 50 0 0 B
+X EN 11 1200 -100 200 L 50 50 0 0 B
+X SYNC 10 1200 -200 200 L 50 50 0 0 B
+X LBI 9 1200 -300 200 L 50 50 0 0 B
+X PAD 17 400 700 200 D 50 50 0 0 B
+X VOUT_3 16 500 700 200 D 50 50 0 0 B
+X VOUT_2 15 600 700 200 D 50 50 0 0 B
+X FB 14 700 700 200 D 50 50 0 0 B
+X GND 13 800 700 200 D 50 50 0 0 B
+P 5 0 1 6 200 500 1000 500 1000 -800 200 -800 200 500 N
+ENDDRAW
+ENDDEF
+#
+#End Library

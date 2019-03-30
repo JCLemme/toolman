@@ -1,4 +1,4 @@
-update=Sat 23 Mar 2019 05:42:39 PM EDT
+update=Fri 29 Mar 2019 12:25:48 AM EDT
 version=1
 last_client=kicad
 [general]
@@ -15,8 +15,8 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
-CopperLayerCount=2
+LastNetListRead=toolman.net
+CopperLayerCount=6
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
@@ -27,15 +27,23 @@ MinViaDiameter=0.04
 MinViaDrill=0.03
 MinMicroViaDiameter=0.02
 MinMicroViaDrill=0.01
-MinHoleToHole=0.025
-TrackWidth1=0.25
+MinHoleToHole=0.0025
+TrackWidth1=0.0889
 TrackWidth2=0.0889
-ViaDiameter1=0.8
-ViaDrill1=0.4
+TrackWidth3=0.15
+TrackWidth4=0.2
+TrackWidth5=0.3
+TrackWidth6=0.35
+ViaDiameter1=0.45
+ViaDrill1=0.2
 ViaDiameter2=0.45
 ViaDrill2=0.2
-dPairWidth1=0.2
-dPairGap1=0.25
+ViaDiameter3=0.5
+ViaDrill3=0.25
+ViaDiameter4=0.6
+ViaDrill4=0.3
+dPairWidth1=0.0889
+dPairGap1=0.0889
 dPairViaGap1=0.25
 SilkLineWidth=0.12
 SilkTextSizeV=1
@@ -43,7 +51,7 @@ SilkTextSizeH=1
 SilkTextSizeThickness=0.15
 SilkTextItalic=0
 SilkTextUpright=1
-CopperLineWidth=0.002
+CopperLineWidth=0.2
 CopperTextSizeV=1.5
 CopperTextSizeH=1.5
 CopperTextThickness=0.3
@@ -61,3 +69,15 @@ SolderMaskClearance=0.051
 SolderMaskMinWidth=0.25
 SolderPasteClearance=0
 SolderPasteRatio=-0
+[pcbnew/Layer.In1.Cu]
+Name=Hi.Cu
+Type=0
+[pcbnew/Layer.In2.Cu]
+Name=Gnd.Cu
+Type=1
+[pcbnew/Layer.In3.Cu]
+Name=Pwr.Cu
+Type=1
+[pcbnew/Layer.In4.Cu]
+Name=Lo.Cu
+Type=0

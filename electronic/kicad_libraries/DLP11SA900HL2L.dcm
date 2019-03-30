@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DLP11SA900HL2L
+D Murata DLP Common Mode Choke 90 
+K
+F https://www.murata.com/en-eu/products/productdata/8796757852190/EFLE0009.pdf?1485487821000
+$ENDCMP
+#
+#End Doc Library

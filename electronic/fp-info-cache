@@ -1,4 +1,18 @@
-749444589420404
+788481776945035
+1769
+1769
+1769
+Connector
+0
+4
+4
+1051620001
+1051620001
+1051620001
+Connector
+0
+15
+15
 A20
 BGA441C80P23X23_1900X1900X140
 A20 BGA
@@ -4444,6 +4458,13 @@ C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4
 0
 0
 0
+CAT811STBI-GT3
+4-PIN-SOT-143(BI-SUFFIX-CASE-527AF)
+4-Pin-SOT-143(BI-SUFFIX-CASE-527AF)
+Integrated Circuit
+0
+4
+4
 cherry
 CUTOUT_A0
 
@@ -5200,6 +5221,13 @@ Transformer_Toroid_Tapped_Horizontal_Diameter14mm_Amidon-T50
 0
 0
 0
+CM1624-08DE
+SON40P135X330X55-17N
+UDFN16 3.3X1.35 .4P CASE 517BE-01
+Integrated Circuit
+0
+17
+17
 Connect
 1pin
 
@@ -12340,6 +12368,27 @@ Blank
 0
 0
 0
+DLP11SA900HL2L
+DLP11S
+DLP11S
+Inductor
+0
+4
+4
+ECS-1612MV-250-CN-TR
+ECS1612MV250CNTR
+ECS-1612MV-250-CN-TR-2
+Crystal or Oscillator
+0
+4
+4
+ER-CON25HB
+ER-CON25HB
+
+
+0
+27
+27
 EuroBoard_Outline
 EuroBoard160mmX100mm
 
@@ -19438,6 +19487,13 @@ MountingHole_8.4mm_M8_Pad_Via
 0
 0
 0
+NCP1529ASNT1G
+SOT95P275X110-5N
+TSOP-5 CASE 483-02
+Integrated Circuit
+0
+5
+5
 NF-Transformers_ETAL
 NF-Transformer_1-1_P1200_ETAL
 
@@ -36784,6 +36840,13 @@ WEEE-Logo_28.1x40mm_SilkScreen
 0
 0
 0
+TCA8418RTWR
+QFN50P400X400X80-25N
+QFN50P400X400X80-25N
+Integrated Circuit
+0
+25
+25
 Terminal_Blocks
 TerminalBlock_Altech_AK300-2_P5.00mm
 
@@ -38884,6 +38947,13 @@ TO-280_Vertical
 0
 0
 0
+TPS61090RSAR
+QFN65P400X400X100-17N
+RSA (S-PVQFN-N16)
+Integrated Circuit
+0
+17
+17
 Transformers_CHK
 Trafo_CHK-EI30-2VA_1xSec
 
@@ -39850,6 +39920,13 @@ RV_Disc_D21.5_W11.4_P10
 0
 0
 0
+W971GG6SB-25
+BGA84C80P9X15_800X1250X120
+W971GG6SB-25
+Integrated Circuit
+0
+84
+84
 Wire_Connections_Bridges
 WireConnection_0.80mmDrill
 
@@ -40985,6 +41062,20 @@ xbga121-std
 121
 121
 w_smd_inductors
+choke_smd_dlw5bs
+Common-mode choke SMD, Murata DLW5BS
+
+0
+4
+4
+w_smd_inductors
+inductor_smd_3x1.4mm
+Inductor SMD, d.3mm x h.1.4mm, Coilcraft LPS3015
+
+0
+14
+2
+w_smd_inductors
 inductor_smd_4.8x2.8mm
 Inductor SMD, d.4.8mm x h.2.8mm
 
@@ -40999,6 +41090,27 @@ Inductor SMD, d.5.8mm x h.2.8mm
 2
 2
 w_smd_inductors
+inductor_smd_5.8x4.5mm
+Inductor SMD, 5.8mm x h.4,5mm, Sumida CD54
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_5x2mm
+Inductor SMD, 5mm x h.2mm, Wurth LQS
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_5x4mm
+Inductor SMD, 5mm x h.4mm, Wurth LQS
+
+0
+2
+2
+w_smd_inductors
 inductor_smd_6.5x4.8mm
 Inductor SMD, 6.5mm x h.4.8mm
 
@@ -41006,8 +41118,57 @@ Inductor SMD, 6.5mm x h.4.8mm
 2
 2
 w_smd_inductors
+inductor_smd_6.8x3.8mm
+Inductor SMD, 6.8x6.8mm x h.3.8mm, Bourns SRR6038
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_6x4.3mm
+Inductor SMD, 6mm x h.4,3mm, Murata LQH6PP
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_7x4.5mm
+Inductor SMD, 7x7mm H4.5mm, Bourns SRR7045
+
+0
+2
+2
+w_smd_inductors
 inductor_smd_8x5mm
 Inductor SMD, d.8mm x h.5mm
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_10.4x4.8mm
+Inductor SMD, 10.4mm x h.4.8mm, Epcos B82464P4
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_12.5x3.5mm_np
+SMD inductor, d.12.5mm x h.3.5mm narrow pads, Vishay IHLP-5050CE-01
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_12.5x3.5mm_wp
+SMD inductor, d.12.5mm x h.3.5mm wide pads, Vishay IHLP-5050CE-01
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_12.5x7.5mm
+Inductor SMD, 12.5mm x h.7.5mm, Bourns SRR1280
 
 0
 2
@@ -41060,6 +41221,13 @@ Inductor SMD, Coilcraft SER2900 series
 
 0
 3
+2
+w_smd_inductors
+inductor_smd_srr6603
+Inductor SMD, Bourns SRR6603 series
+
+0
+2
 2
 w_smd_inductors
 transf_smd_ep7-8
